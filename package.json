@@ -1,0 +1,42 @@
+{
+  "_from": "ziggeo-client-sdk@^0.0.29",
+  "_id": "ziggeo-client-sdk@0.0.29",
+  "_inBundle": false,
+  "_integrity": "sha512-erpMSUpgq2pTUtlPDXCoqg5hjTJiHN/nFY5Bry8Lnzxv/H09GTyJxneEnT1Rafu3Pv5bGwZ29ljex3VQ0YGwpg==",
+  "_location": "/ziggeo-client-sdk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ziggeo-client-sdk@^0.0.29",
+    "name": "ziggeo-client-sdk",
+    "escapedName": "ziggeo-client-sdk",
+    "rawSpec": "^0.0.29",
+    "saveSpec": null,
+    "fetchSpec": "^0.0.29"
+  },
+  "_requiredBy": [
+    "/angular-ziggeo"
+  ],
+  "_resolved": "https://registry.npmjs.org/ziggeo-client-sdk/-/ziggeo-client-sdk-0.0.29.tgz",
+  "_shasum": "f455aa56c779e6770f11fc7adfb1945ecef15d47",
+  "_spec": "ziggeo-client-sdk@^0.0.29",
+  "_where": "E:\\JobitivitySvn\\ionic2-ziggeo-demo-master\\node_modules\\angular-ziggeo",
+  "author": {
+    "name": "Ziggeo"
+  },
+  "bugs": {
+    "url": "https://github.com/Ziggeo/ziggeo-client-sdk/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ziggeo API (https://ziggeo.com) allows you to integrate video recording and playback with only two lines of code in your site, service or app. This is the JavaScript Client SDK.",
+  "homepage": "https://github.com/Ziggeo/ziggeo-client-sdk#readme",
+  "license": "Proprietary",
+  "name": "ziggeo-client-sdk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ziggeo/ziggeo-client-sdk.git"
+  },
+  "version": "0.0.29"
+}
